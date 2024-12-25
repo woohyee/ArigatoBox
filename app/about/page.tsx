@@ -78,7 +78,6 @@ export default function About() {
               className="w-full h-[205px] sm:h-[285px] border-0"
               allowFullScreen
               loading="eager"
-              priority="true"
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
           </div>
